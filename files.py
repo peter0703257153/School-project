@@ -9,5 +9,5 @@ print student_file_object.readlines()[0:3]
     #print student_file_object.readline().strip()
 
 #print dir()
-#print student_file_object_write.write("peter")
+print student_file_object_write.write("peter")
 #print student_file_object_write.writelines("peterrr")
